@@ -19,6 +19,6 @@ Any script (that follows the applicable conventions) in the res://test/unit or r
 
 Add more tests
 
-## Created by 
+## Created for
 
-Jason Francis
+Elijah Brown
